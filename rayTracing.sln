@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rayTracing", "rayTracing\rayTracing.vcxproj", "{98F03822-881E-4074-9F08-BA4262042FA9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scripter", "scripter\scripter.vcxproj", "{A374EAC1-766B-4465-A472-27C3EF4964AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F03822-881E-4074-9F08-BA4262042FA9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98F03822-881E-4074-9F08-BA4262042FA9}.Debug|Win32.Build.0 = Debug|Win32
+		{98F03822-881E-4074-9F08-BA4262042FA9}.Release|Win32.ActiveCfg = Release|Win32
+		{98F03822-881E-4074-9F08-BA4262042FA9}.Release|Win32.Build.0 = Release|Win32
+		{A374EAC1-766B-4465-A472-27C3EF4964AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A374EAC1-766B-4465-A472-27C3EF4964AE}.Debug|Win32.Build.0 = Debug|Win32
+		{A374EAC1-766B-4465-A472-27C3EF4964AE}.Release|Win32.ActiveCfg = Release|Win32
+		{A374EAC1-766B-4465-A472-27C3EF4964AE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

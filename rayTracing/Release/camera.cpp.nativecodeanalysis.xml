@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>d:\dropbox\campus\2spr\graphics\assignment\raytracing\raytracing\</FILEPATH><FILENAME>camera.cpp</FILENAME><LINE>36</LINE><COLUMN>7</COLUMN></SFA><DEFECTCODE>6031</DEFECTCODE><DESCRIPTION>返回值被忽略:“fscanf”。</DESCRIPTION><FUNCTION>CameraProspective::readCamera</FUNCTION><DECORATED>?readCamera@CameraProspective@@SAPAVCamera@@PAU_iobuf@@@Z</DECORATED><FUNCLINE>29</FUNCLINE><PATH/></DEFECT></DEFECTS>
