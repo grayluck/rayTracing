@@ -78,7 +78,7 @@ Glass rabbit(678 iters, depth of sub-lights: 10）
 
 ### Full video ###
 
-See [Full Video link here](www.youtube.com/watch?v=Nm3q0iIu2xY).
+See [Full Video here](www.youtube.com/watch?v=Nm3q0iIu2xY).
 
 ## References
 
